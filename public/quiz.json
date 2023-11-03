@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+      "question": "What is the capital of France?",
+      "options": ["New York", "London", "Paris", "Dublin"],
+      "answer": "Paris"
+    },
+    {
+      "id":2,
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Vincent Van Gogh", "Pablo Picasso", "Leonardo Da Vinci", "Claude Monet"],
+      "answer": "Leonardo Da Vinci"
+    },
+    {
+        "id":3,
+        "question": "In which Indian state was a new mushroom species 'Candolleomyces albosquamosus' discovered?",
+        "options":  ["Kerala","Karnataka","Maharashtra","Tamil Nadu"],
+        "answer":   "Kerala"
+    },
+    
+    {
+        "id":4,
+        "question": "Who painted the Mona Lisa?",
+        "options": ["Vincent Van Gogh", "Pablo Picasso", "Leonardo Da Vinci", "Claude Monet"],
+        "answer": "Leonardo Da Vinci"
+      },
+      {
+        "id":5,
+        "question": "Which of the following is the Standardized Precipitation Index (SPI) used to monitor?",
+        "options" : ["Drought", "Flood","Temperature","Wind speed"],
+        "answer": "Drought"
+      },
+      {
+        "id":6,
+        "question":"Where is the Tropical Deep-sea Neutrino Telescope (Trident) proposed to be built?",
+        "options":["United States", "China","Japan", "South Korea"],
+        "answer":"China"
+      }
+      
+  ]
+  
